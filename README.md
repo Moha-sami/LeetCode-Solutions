@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0238-product-of-array-except-self](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Database
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1280-students-and-examinations](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/1280-students-and-examinations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Moha-sami/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
